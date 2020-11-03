@@ -1,0 +1,73 @@
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.exe.config
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.exe
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.pdb
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.xml
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.vbprojAssemblyReference.cache
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Form1.resources
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Resources.resources
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.vbproj.GenerateResource.cache
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.exe
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.xml
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.pdb
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Form2.resources
+C:\Users\SEBAS\source\repos\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Form3.resources
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.exe.config
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.exe
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.pdb
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.xml
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.vbprojAssemblyReference.cache
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Form1.resources
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Form2.resources
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Form3.resources
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Resources.resources
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.vbproj.GenerateResource.cache
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.exe
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.xml
+G:\ASIGNATURAS\DI\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.pdb
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.exe.config
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.exe
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.pdb
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\bin\Debug\examen_joel_DI.xml
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.vbprojAssemblyReference.cache
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Form1.resources
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Form2.resources
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Form3.resources
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.Resources.resources
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.vbproj.GenerateResource.cache
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.exe
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.xml
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\obj\Debug\examen_joel_DI.pdb
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\bin\Debug\JOEL.mdf
+G:\ASIGNATURAS\examen_joel_DI\examen_joel_DI\bin\Debug\JOEL_log.ldf
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\bin\Debug\JOEL.mdf
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\bin\Debug\JOEL_log.ldf
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\bin\Debug\examen_joel_DI.exe.config
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\bin\Debug\examen_joel_DI.exe
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\bin\Debug\examen_joel_DI.pdb
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\bin\Debug\examen_joel_DI.xml
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.vbprojAssemblyReference.cache
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.Form1.resources
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.Form2.resources
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.Form3.resources
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.Resources.resources
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.vbproj.GenerateResource.cache
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.vbproj.CoreCompileInputs.cache
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.exe
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.xml
+E:\ASIGNATURAS\examen_joel\examen_joel_DI\obj\Debug\examen_joel_DI.pdb
+D:\PROYECTOS\.Net\Programa .Net\bin\Debug\JOEL.mdf
+D:\PROYECTOS\.Net\Programa .Net\bin\Debug\JOEL_log.ldf
+D:\PROYECTOS\.Net\Programa .Net\bin\Debug\examen_joel_DI.exe.config
+D:\PROYECTOS\.Net\Programa .Net\bin\Debug\examen_joel_DI.exe
+D:\PROYECTOS\.Net\Programa .Net\bin\Debug\examen_joel_DI.pdb
+D:\PROYECTOS\.Net\Programa .Net\bin\Debug\examen_joel_DI.xml
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.vbprojAssemblyReference.cache
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.Form1.resources
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.Form2.resources
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.Form3.resources
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.Resources.resources
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.vbproj.GenerateResource.cache
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.vbproj.CoreCompileInputs.cache
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.exe
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.xml
+D:\PROYECTOS\.Net\Programa .Net\obj\Debug\examen_joel_DI.pdb

@@ -1,0 +1,33 @@
+1.- esta hecha toda la depuracion "esta en el codigo"
+    nombre, nmo admite numero ni caracters especiales 
+DIRECCION, igual
+telefono, no admite letra, y tiene q tener minimo 9 digitos
+dni, al menos 9, ultimo elemtno una letra
+
+bocadillos los q pone en el combo
+al tener algun fallo, simplemente lo elimina y pone 
+	el cuadro en rojo
+en el cliente te da la opcion de poner un cliente con 6
+luego al darle un valor con 6, al volver sigue a 7, y
+luego a 8 asi sucesivamente
+en el caso q le dea 1,2,3,4,5 no sumara este numero y
+se quedara con el ultimo dado
+
+
+ 2.- al darle a acpetar, si todo esta bn te lleva al form2 
+y reinicia los tiempos del form1
+le das a aceptar lo fuarda si cancelar no lo guarda
+
+
+3.- resumen del dia, al pasar de elementos con los botones 
+al llegar al final vuelve al principio
+y al llegar al principio vuelve al final
+
+se puede presionar sin interrupciones cualquiera
+
+el tiempo perdido, es el tiempo despeus de dos
+y le total, es todo el timpo
+
+*el boton B sirve para borrar, y reiniciar todo, tambn el 
+label de tiempos*
+lo demas se puede apreciar en el programa
